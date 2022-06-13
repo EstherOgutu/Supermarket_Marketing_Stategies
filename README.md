@@ -26,20 +26,21 @@ You have also been requested to check whether there are any anomalies in the giv
 
 ## Technologies
 ***
+The technologies used are:
+
+- RStudio
+- Github
+## Projects
+***
+Part 1 and Part 2: This is the [link](https://rpubs.com/Esther_O/914041) of the project.
+Part 3 and 4: This is the [link](https://rpubs.com/Esther_O/914009) of the project.
+
 ## Installation
 ***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
-In case you want to collaborate on this project, reach me on my email: esther.ogutu@gmail.com
+In case you want to collaborate on this project, reach me on my email: esther.ogutu@gmail.com.
 
 ## FAQs
 ***
-Yet to be formulated
+Yet to be formulated.
