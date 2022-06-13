@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [Project Description](#Project Description)
-- [Part 1](#part 1)
-- [Part 2](#part 2)
-- [Part 3](#part 3)
-- [Part 4](#part 4)
+- [Part 1](#Part 1)
+- [Part 2](#Part 2)
+- [Part 3](#Part 3)
+- [Part 4](#Part 4)
 
 
 ## Project Description
