@@ -1,7 +1,7 @@
 <h1 align="center">Carrefour_Supermarket_Marketing_Stategies</h1>
 
 ## Table of Contents
-- [Project Description](#Project Description)
+- [Project Description](## Project Description)
 - [Part 1](#Part 1)
 - [Part 2](#Part 2)
 - [Part 3](#Part 3)
