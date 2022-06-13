@@ -1,4 +1,4 @@
-# Carrefour_Supermarket_Marketing_Stategies
+<h1 align="center">Carrefour_Supermarket_Marketing_Stategies</h1>
 
 You are a Data analyst at Carrefour Kenya and are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). Your project has been divided into four parts where you'll explore a recent marketing dataset by performing various unsupervised learning techniques and later providing recommendations based on your insights.
 
@@ -17,10 +17,6 @@ This section will require that you create association rules that will allow you 
 ## Part 4: Anomaly Detection
 
 You have also been requested to check whether there are any anomalies in the given sales dataset. The objective of this task being fraud detection.
-
-
-<h1 align="center">Carrefour_Supermarket_Marketing_Stategies</h1>
-
 ## Table of Contents
 - [Features](#features)
 - [Example](#example)
