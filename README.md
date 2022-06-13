@@ -38,9 +38,8 @@ $ npm start
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
+In case you want to collaborate on this project, reach me on my email: esther.ogutu@gmail.com
+
 ## FAQs
 ***
+Yet to be formulated
