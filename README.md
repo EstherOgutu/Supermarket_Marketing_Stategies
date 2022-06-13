@@ -38,8 +38,10 @@ Part 1 and Part 2: This is the [link](https://rpubs.com/Esther_O/914041) of the 
 
 Part 3 and 4: This is the [link](https://rpubs.com/Esther_O/914009) of the project.
 
-## Installation
+## Installation 
 ***
+## Installating R on Windows 
+
 Step – 1: Go to CRAN R project website.
 
 Step – 2: Click on the Download R for Windows link.
