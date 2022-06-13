@@ -1,4 +1,5 @@
-<h1 align="center">Carrefour Marketing Strategies</h1>
+# CARREFOUR MARKETING STRATEGIES
+
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
